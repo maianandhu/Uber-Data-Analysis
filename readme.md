@@ -52,7 +52,7 @@ The dataset (`UberDataset.csv`) contains **1,156 Uber rides** with the following
 # 4) On which days of the week do people book Uber rides the most?
 - Friday is the most whereas on Sunday least amount of Uber rides are booked
 
-![alt text](5-1.png)
+![alt text](5.png)
 
 * Most trips were taken for **business purposes**, especially meetings and customer visits.
 * **Peak travel times** were during **working hours (8 AM – 6 PM)**, reflecting professional usage.
